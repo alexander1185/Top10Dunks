@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(103, 128, 173);
+}
+
+h1{
+  color: darkblue;
+  text-align: center;
+}
+
+p{
+  color: darkblue;
+  text-align: center;
+  border: 3px solid darkblue;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-top-right-radius: 3px;
+}
